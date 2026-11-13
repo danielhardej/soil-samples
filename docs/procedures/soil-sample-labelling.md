@@ -2,7 +2,7 @@
 document_id: SOP-FLD-014
 title: Field Soil Sample Labelling Procedure
 topic: Field sampling
-version: "2.4"
+version: "2.5"
 owner: Field Operations Lead
 approver: Manager, Field Services
 last_reviewed: 2026-11-13
@@ -79,7 +79,7 @@ Complete these steps, in order, for every sample.
     - Pencil smudges when bags are wet or chilled, and the laboratory rejects labels it cannot read.
     - If a label is damaged, move the sample to a new bag and relabel it straight away. Never reuse bags.
 3. **Record GPS coordinates in the field app.**
-    - Stand at the sampling point and wait until the app shows an accuracy of 3 m or better before saving.
+    - Stand at the sampling point and wait until the app shows an accuracy of 1 m or better before saving.
     - The app records coordinates in decimal degrees (GDA2020).
     - Without mobile coverage, write the coordinates on the batch sheet and sync the app when you are back in range.
 4. **Photograph the label next to the sample hole.**
@@ -130,6 +130,7 @@ This procedure creates the records below. Keep them in line with the department'
 | 2.2 | 30 September 2024 | Cold storage time reduced from 6 to 4 hours | — | Manager, Field Services |
 | 2.3 | 14 March 2025 | Annual review; equipment list updated | — | Manager, Field Services |
 | 2.4 | 13 November 2026 | GPS accuracy tightened from 5 m to 3 m | Field Operations | Manager, Field Services |
+| 2.5 | 13 November 2026 | GPS accuracy tightened from 3 m to 1 m | Field Operations | Manager, Field Services |
 
 ## Appendix A. Example sample label
 
