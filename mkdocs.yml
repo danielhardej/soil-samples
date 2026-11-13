@@ -31,7 +31,7 @@ theme:
 nav:
   - Home: index.md
   - Field sampling:
-      - Field Soil Sample Labelling Procedure: field-sampling/soil-sample-labelling.md
+      - Field Soil Sample Labelling Procedure: procedures/soil-sample-labelling.md
 
 plugins:
   - search:
