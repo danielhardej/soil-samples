@@ -122,14 +122,14 @@ This procedure creates the records below. Keep them in line with the department'
 
 ## 10. Revision history
 
-| Version | Date | Summary of changes | Approved by |
-| --- | --- | --- | --- |
-| 1.0 | 7 June 2021 | First release | Manager, Field Services |
-| 2.0 | 22 August 2023 | New sample ID format; GPS and photo steps added | Manager, Field Services |
-| 2.1 | 5 February 2024 | Depth codes moved into table 1 | Manager, Field Services |
-| 2.2 | 30 September 2024 | Cold storage time reduced from 6 to 4 hours | Manager, Field Services |
-| 2.3 | 14 March 2025 | Annual review; equipment list updated | Manager, Field Services |
-| 2.4 | 13 November 2026 | GPS accuracy tightened from 5 m to 3 m | Field Operations |
+| Version | Date | Summary of changes | Author | Approved by |
+| --- | --- | --- | --- | --- |
+| 1.0 | 7 June 2021 | First release | — | Manager, Field Services |
+| 2.0 | 22 August 2023 | New sample ID format; GPS and photo steps added | — | Manager, Field Services |
+| 2.1 | 5 February 2024 | Depth codes moved into table 1 | — | Manager, Field Services |
+| 2.2 | 30 September 2024 | Cold storage time reduced from 6 to 4 hours | — | Manager, Field Services |
+| 2.3 | 14 March 2025 | Annual review; equipment list updated | — | Manager, Field Services |
+| 2.4 | 13 November 2026 | GPS accuracy tightened from 5 m to 3 m | Field Operations | Manager, Field Services |
 
 ## Appendix A. Example sample label
 
