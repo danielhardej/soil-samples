@@ -1,0 +1,63 @@
+site_name: Team Procedures
+site_description: Current procedures for field and laboratory work
+site_url: https://danielhardej.github.io/soil-samples/
+repo_url: https://github.com/danielhardej/soil-samples
+repo_name: danielhardej/soil-samples
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: slate
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+  features:
+    - content.action.edit
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+
+nav:
+  - Home: index.md
+  - Field sampling:
+      - Field Soil Sample Labelling Procedure: field-sampling/soil-sample-labelling.md
+
+plugins:
+  - search:
+      lang: en
+
+hooks:
+  - hooks/procedures.py
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra_css:
+  - stylesheets/extra.css
+
+validation:
+  nav:
+    omitted_files: warn
+    not_found: warn
+    absolute_links: warn
+  links:
+    not_found: warn
+    absolute_links: relative_to_docs
+    unrecognized_links: warn
+    anchors: warn
